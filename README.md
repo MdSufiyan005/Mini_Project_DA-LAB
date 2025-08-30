@@ -35,7 +35,7 @@ The dashboard provides key insights such as sales trends, product performance, a
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](images/image.png)
+![Dashboard Preview](Mini_project_sales_dashboard-main/images/image.png)
 
 ---
 
