@@ -36,11 +36,3 @@ The dashboard provides key insights such as sales trends, product performance, a
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Preview](Mini_project_sales_dashboard-main/images/image.png)
-
----
-
-## 🚀 How to Use
-1. Open Tableau Desktop or Tableau Public.  
-2. Load the `sales_cleaned.csv` file.  
-3. Recreate or customize the dashboard using the provided visualizations.  
-4. Publish or export the dashboard as needed.  
